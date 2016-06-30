@@ -6,7 +6,7 @@ Run entertainment_center.py in python
 
 It should open a page like this:
 
-![Image of web](web.png| width=400)
+![Image of web](web.png)
 
 # If you want to change the content, you can edit the myMovies.csv
 
@@ -30,7 +30,7 @@ Zootopia,http://vignette3.wikia.nocookie.net/zootopia/images/b/b8/ZootopiaFamily
 
 It looks aweful, so I remommend you use Google Sheets to help with csv file
 
-![Image of csv](csv.png| width=400)
+![Image of csv](csv.png)
 
 
 Run entertainment_center.py in python again
