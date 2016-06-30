@@ -13,14 +13,14 @@ It should open a page like this:
 The first line of csv must be title,image,introduction,year,type,trailer_url,
 they are columns' name 
 
-##### The explanations of the six columns :
+The explanations of the six columns :
 
 |title|image|introduction|year|type|trailer_url|
 |-----|-----|------------|----|----|-----------|
 |the movie title| the image url of movie| A simple introduction of movie | the release year of movie| movie trailer_url of movie
 |zootopia|http://....zootopia.jpg|Hiya! this a introduction|2016|http://youtube...|
 
-##### The myMovie.csv example
+The myMovie.csv example
 
 ```
 title,image,introduction,year,type,trailer_url
