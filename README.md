@@ -16,8 +16,8 @@ The explanations of the six columns are :
 
 |title|image|introduction|year|type|trailer_url|
 |-----|-----|------------|----|----|-----------|
-|the movie title| the image url of movie| A simple introduction of movie | the release year of movie| movie trailer_url of movie
-|zootopia|http://....zootopia.jpg|Hiya! this a introduction|2016|http://youtube...|
+|the movie title| the image url of movie| A simple introduction of movie | the release year of movie| Type of file, e.g. anime, drama |movie trailer_url of movie
+|zootopia|http://....zootopia.jpg|Hiya! this a introduction|2016|anime|http://youtube...|
 
 The myMovie.csv example
 
