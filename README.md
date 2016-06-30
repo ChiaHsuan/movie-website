@@ -1,14 +1,14 @@
 # movie-website
 Udacity full stack course project
 
-# Usage
+### Usage
 Run entertainment_center.py in python
 
 It should open a page like this:
 
 ![Image of web](web.png)
 
-# If you want to change the content, you can edit the myMovies.csv
+### If you want to change the content, you can edit the myMovies.csv
 
 The first line of csv must be title,image,introduction,year,type,trailer_url,
 they are columns' name 
