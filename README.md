@@ -10,10 +10,9 @@ It should open a page like this:
 
 ### If you want to change the content, you can edit the myMovies.csv
 
-The first line of csv must be title,image,introduction,year,type,trailer_url,
-they are columns' name 
+The first line of csv must be " title,image,introduction,year,type,trailer_url ", they are columns' name 
 
-The explanations of the six columns :
+The explanations of the six columns are :
 
 |title|image|introduction|year|type|trailer_url|
 |-----|-----|------------|----|----|-----------|
@@ -28,10 +27,10 @@ Zootopia,http://vignette3.wikia.nocookie.net/zootopia/images/b/b8/ZootopiaFamily
 
 ```
 
-It looks aweful, so I remommend you use Google Sheets to help with csv file
+It looks aweful, so I recommend to use Google Sheets to help with editing csv file
 
 ![Image of csv](csv.png)
 
 
-Run entertainment_center.py in python again
+Finally, run entertainment_center.py in python again
  
