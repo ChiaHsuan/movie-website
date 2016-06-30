@@ -2,7 +2,7 @@
 Udacity full stack course project
 
 ### Usage
-Run entertainment_center.py in python
+Download all files and run entertainment_center.py in python
 
 It should open a page like this:
 
